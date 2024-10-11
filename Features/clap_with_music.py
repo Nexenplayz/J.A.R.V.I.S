@@ -44,5 +44,5 @@ def clap_to_music():
                 clap_count += 2
 
                 if clap_count == REQUIRED_CLAPS:
-                    play_random_music(r"C:\Users\chatu\OneDrive\Desktop\J.A.R.V.I.S\DATA\MUSIC")
+                    play_random_music(r"D:\New folder\J.A.R.V.I.S\DATA\MUSIC")
                     break

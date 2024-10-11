@@ -77,7 +77,7 @@ class JarvisUI(QWidget):
             current_directory = os.path.dirname(os.path.abspath(__file__))
 
             # Specify the path to main.py based on the current directory
-            path_to_main_py = os.path.join(current_directory, r"C:\Users\chatu\OneDrive\Desktop\J.A.R.V.I.S\MAIN\main.py")
+            path_to_main_py = os.path.join(current_directory, r"D:\New folder\J.A.R.V.I.S\MAIN\main.py")
 
             command = ["python", path_to_main_py]
             self.process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, cwd=current_directory)

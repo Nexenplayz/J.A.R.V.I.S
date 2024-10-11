@@ -57,7 +57,7 @@ def load_AlamTime(file_path):
         print(f"Error loading schedule: {e}")
     return schedule
 
-Alam_path = r"C:\Users\chatu\OneDrive\Desktop\Jarvis\Alam_data.txt"
+Alam_path = r"D:\New folder\J.A.R.V.I.S\Alam_data.txt"
 
 def check_Alam(Alam_path):
     last_modified = 0

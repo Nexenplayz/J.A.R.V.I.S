@@ -20,7 +20,7 @@ website = "https://allorizenproject1.netlify.app/"
 driver.get(website)
 Recog_File = f"{getcwd()}\\input.txt"
 def listen():
-    print("Support in Youtube @NetHyTech")
+    print("Support in Instagram @Nexenplayz")
     try:
         start_button = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.ID, 'startButton')))
         start_button.click()

@@ -81,7 +81,7 @@ print("The essay is about...")
 Current system : Windows
 Python version : 3.11.4
 
-Current directory : C:\Users\chatu\OneDrive\Desktop\Jarvis
+Current directory : D:\New folder\J.A.R.V.I.S
 Current Datetime : 2024-07-27 02:57:06.463246
 
 

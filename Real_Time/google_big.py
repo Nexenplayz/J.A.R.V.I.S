@@ -15,7 +15,7 @@ def search_and_extract(text):
         chrome_options.add_argument("--headless")
 
         # Set the path to your ChromeDriver executable
-        chrome_driver_path = r'C:\Users\chatu\OneDrive\Desktop\J.A.R.V.I.S\DATA\chromedriver.exe'
+        chrome_driver_path = r'D:\New folder\J.A.R.V.I.S\DATA\chromedriver.exe'
 
         chrome_service = Service(chrome_driver_path)
         driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
